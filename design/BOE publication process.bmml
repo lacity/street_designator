@@ -1,0 +1,223 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1579" measuredH="862" mockupW="1579" mockupH="777">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="603" y="299" w="-1" h="-1" measuredW="63" measuredH="63" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DataBaseIcon%7Clarge</icon>
+        <text>Production</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="1264" y="85" w="-1" h="-1" measuredW="137" measuredH="63" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>NavigateLA%20Application</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="1227" y="214" w="-1" h="-1" measuredW="129" measuredH="63" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DataBaseIcon%7Clarge</icon>
+        <text>NavigateLA%20Database</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="780" y="370" w="-1" h="-1" measuredW="99" measuredH="63" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DataBaseIcon%7Clarge</icon>
+        <text>ETL%20Tables%20%28e.g.%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::DataGrid" x="505" y="402" w="-1" h="-1" measuredW="263" measuredH="141" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Asset%20ID%2C%20Street%20Designation%2C%20Sectoin%20ID%0A1%2C%202%2C%203%0A2%2C%202%2C%203%0A3%2C%201%2C%204%0A4%2C%201%2C%204</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::DataGrid" x="1390" y="213" w="-1" h="-1" measuredW="189" measuredH="141" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Asset%20ID%2C%20Street%20Designation%0A1%2C%20Local%0A2%2C%20Local%0A3%2C%20Local%0A4%2C%20Highway</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Arrow" x="666" y="214" w="377" h="97" measuredW="150" measuredH="100" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Arrow" x="856" y="240" w="217" h="131" measuredW="150" measuredH="100" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::IconLabel" x="1043" y="209" w="-1" h="-1" measuredW="115" measuredH="63" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Publication%20Process</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Arrow" x="1150" y="229" w="98" h="12" measuredW="150" measuredH="100" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::DataGrid" x="782" y="443" w="-1" h="-1" measuredW="305" measuredH="81" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Street%20Designation%20ID%2C%20Street%20Designation%20Name%0A1%2C%20Highway%0A2%2C%20Local</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::DataGrid" x="780" y="643" w="-1" h="-1" measuredW="219" measuredH="51" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Asset%20ID%2C%20New%20Street%20Designation%0A3%2C%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Title" x="618" y="140" w="-1" h="-1" measuredW="447" measuredH="43" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BOE%20Publication%20Process</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Arrow" x="1295" y="158" w="19" h="48" measuredW="150" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::StickyNote" x="1027" y="470" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Some%20ETL%20tables%20are%20used%20to%20make%20fields%20human%20readable</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::StickyNote" x="907" y="679" w="188" h="123" measuredW="109" measuredH="123" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Changes%20to%20street%20designation%20are%20handled%20in%20the%20ETL%20tables%20%28not%20updated%20in%20the%20production%20tables%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::StickyNote" x="546" y="531" w="221" h="147" measuredW="109" measuredH="123" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Street%20designations%20in%20Production%20reflect%20the%20street%27s%20designation%20when%20it%20was%20initially%20imported%20from%20Planning%20-%20it%27s%20not%20necessarily%20up%20to%20date.%20Changes%20to%20street_designation%20are%20tracked%20in%20the%20ETL%20tables%20for%20publication%20reconciling.</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Arrow" x="334" y="265" w="278" h="46" measuredW="150" measuredH="100" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Title" x="76" y="163" w="-1" h="-1" measuredW="381" measuredH="43" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BOE%20Editing%20Process</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::IconLabel" x="246" y="248" w="-1" h="-1" measuredW="113" measuredH="63" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DataBaseIcon%7Clarge</icon>
+        <text>Copy%20of%20Production</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Arrow" x="188" y="270" w="40" h="48" measuredW="150" measuredH="100" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::IconLabel" x="106" y="320" w="-1" h="-1" measuredW="178" measuredH="63" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Clarge</icon>
+        <text>BOE%20engineer%20edits%20local%20copy</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Arrow" x="222" y="318" w="47" h="25" measuredW="150" measuredH="100" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Arrow" x="340" y="292" w="242" h="34" measuredW="150" measuredH="100" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="340" y="240" w="-1" h="-1" measuredW="244" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Engineer%20%22checks%20out%22%20copy%20of%20production</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Paragraph" x="346" y="311" w="257" h="80" measuredW="275" measuredH="80" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Engineer%20%22commits%22%20changes%20to%20production</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Arrow" x="168" y="343" w="422" h="113" measuredW="150" measuredH="100" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::IconLabel" x="110" y="462" w="-1" h="-1" measuredW="113" measuredH="63" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DataBaseIcon%7Clarge</icon>
+        <text>Copy%20of%20Production</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Arrow" x="82" y="486" w="40" h="48" measuredW="150" measuredH="100" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Arrow" x="116" y="529" w="47" h="25" measuredW="150" measuredH="100" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Arrow" x="199" y="354" w="398" h="145" measuredW="150" measuredH="100" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Paragraph" x="259" y="451" w="214" h="80" measuredW="275" measuredH="80" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2nd%20Engineer%20%22commits%22%20changes%20to%20production%2C%20resolving%20any%20conflicts%20with%20Enginner%20%231%27s%20commit.</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="535" w="-1" h="-1" measuredW="205" measuredH="63" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Clarge</icon>
+        <text>2nd%20BOE%20engineer%20edits%20local%20copy</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Paragraph" x="85" y="402" w="162" h="80" measuredW="275" measuredH="80" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2nd%20Engineer%20%22checks%20out%22%20copy%20of%20production</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::FieldSet" x="771" y="354" w="385" h="493" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ETL</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::FieldSet" x="442" y="285" w="731" h="577" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Production</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

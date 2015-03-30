@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Proposal
+title: Thesis Proposal
 permalink: /proposal_for_calstate/
 ---
+
+#### By: Laura Mann
 
 The Problem
 ------------
@@ -50,9 +52,6 @@ ArcGIS that receives data from the BOE's ArcGIS database.
 
 Details of the process of publication between BOE and Planning are
 displayed in the accompanying flowcharts.
-
-Diagrams
---------
 
 ### Current Process
 

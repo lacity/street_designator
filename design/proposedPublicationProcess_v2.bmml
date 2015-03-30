@@ -146,10 +146,10 @@
         <text>ZIMAS%20Webservice</text>
       </controlProperties>
     </control>
-    <control controlID="77" controlTypeID="com.balsamiq.mockups::Paragraph" x="593" y="539" w="284" h="37" measuredW="275" measuredH="80" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Paragraph" x="593" y="539" w="264" h="37" measuredW="275" measuredH="80" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
-        <align>center</align>
-        <text>Regular%20Export%20updates%20Planning%27s%20geo%20data%20in%20ZIMAS.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Street%20Designation%20data.</text>
+        <align>left</align>
+        <text>Regular%20Export%20updates%20Planning%27s%20geo%20data%20in%20ZIMAS%2C</text>
       </controlProperties>
     </control>
     <control controlID="78" controlTypeID="com.balsamiq.mockups::Icon" x="711" y="491" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="27" locked="false" isInGroup="-1">
@@ -160,21 +160,23 @@
     <control controlID="80" controlTypeID="com.balsamiq.mockups::Arrow" x="759" y="501" w="936" h="170" measuredW="150" measuredH="100" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.5</backgroundAlpha>
+        <color>16750848</color>
         <direction>bottom</direction>
         <leftArrow>true</leftArrow>
         <rightArrow>false</rightArrow>
       </controlProperties>
     </control>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::Label" x="648" y="547" w="-1" h="-1" measuredW="74" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Label" x="655" y="550" w="-1" h="-1" measuredW="209" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <bold>true</bold>
         <color>16750848</color>
-        <text>INCLUDING</text>
+        <text>including%20Street%20Designation%20data.</text>
       </controlProperties>
     </control>
     <control controlID="82" controlTypeID="com.balsamiq.mockups::Paragraph" x="1155" y="485" w="284" h="37" measuredW="275" measuredH="80" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>16750848</color>
         <text>Nightly%20BOE%20export%20process%20pulls%20Street%20Designation%20data%20from%20ZIMAS%20Webservice</text>
       </controlProperties>
     </control>

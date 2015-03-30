@@ -239,7 +239,7 @@
         <text>BOE%20engineer%20begins%20edit%20process</text>
       </controlProperties>
     </control>
-    <control controlID="57" controlTypeID="com.balsamiq.mockups::Arrow" x="1155" y="308" w="167" h="83" measuredW="150" measuredH="100" zOrder="41" locked="false" isInGroup="-1">
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Arrow" x="1155" y="308" w="190" h="75" measuredW="150" measuredH="100" zOrder="41" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.5</backgroundAlpha>
         <direction>top</direction>

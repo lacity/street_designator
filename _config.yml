@@ -4,8 +4,8 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Exploring alternatives in how the city of Los Angeles shares data between
   departments.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/street_designator/" # the subpath of your site, e.g. /blog/
+url: "http://lacity.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 

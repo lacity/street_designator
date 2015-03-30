@@ -13,8 +13,8 @@ element](http://planning.lacity.org/Cwd/GnlPln/MobiltyElement/Text/MobilityPlan_
 document.  The mobility element  affects [street
 designations](http://planning.lacity.org/Cwd/GnlPln/MobiltyElement/Text/CompStManual.pdf),
 an attribute of GIS mapping systems maintained by the Bureau of
-Engineering and the Planning department. 
-   
+Engineering and the Planning department.
+
 The BOE maintains a GIS mapping system called
 [NavigateLA](http://navigatela.lacity.org/NavigateLA/) that is used
 internally, by city departments and the public.  BOE data is the
@@ -22,7 +22,7 @@ authority on policy created by other city departments. For example, a
 developer must receive the approval of a plan check engineer who uses
 the BOE's GIS data to authorize the developer's plans. When this GIS
 data is inaccurate it can be a disastrous and costly situation for the
-city and the developer. 
+city and the developer.
 
 One of the departments from which BOE receives changes in policy
 affecting NavigateLA's database is the Planning Department. The Planning
@@ -46,10 +46,10 @@ employees.
 The Planning Department, in addition to updating information for the
 BOE's mapping system, maintains their own mapping application called
 [ZIMAS](http://zimas.lacity.org/) which is a specialized instance of
-ArcGIS that receives data from the BOE's ArcGIS database.  
+ArcGIS that receives data from the BOE's ArcGIS database.
 
 Details of the process of publication between BOE and Planning are
-displayed in the accompanying flowcharts.  
+displayed in the accompanying flowcharts.
 
 Diagrams
 --------
@@ -68,18 +68,24 @@ Goals
 -----
  1. Increase the speed with which changes to street designations made by
     Planning are available to the plan check engineers.
-   1. Reduce the amount of time spent by the Bureau of Engineering
-      inputting changes to street designations
-   2. Reduce the amount of time spent by Planning preparing change
-      reports to send to the Bureau of Engineering
+
+    1. Reduce the amount of time spent by the Bureau of Engineering
+       inputting changes to street designations
+
+    2. Reduce the amount of time spent by Planning preparing change
+       reports to send to the Bureau of Engineering
+
  2. Solidify the Planning Department as the sole Source of Authority for
     street designations.
-   1. Reduce the chance for errors that could occur when Planning
-      manually creates change request documents and when the BOE
-manually re-inputs what is intended to be the same data.
+
+    1. Reduce the chance for errors that could occur when Planning
+       manually creates change request documents and when the BOE
+       manually re-inputs what is intended to be the same data.
+
  3. Introduce a working example of how service oriented architecture
     improves the quality of the city's data while also reducing the
-effort of maintaining the data. 
+    effort of maintaining the data.
+
 
 Requirements
 ------------
@@ -87,10 +93,10 @@ An internet based interface for the exchange of information between
 Planning and the BOE
 
 1. Planning
-  1. A webservice that publishes their existing street designation data
-2. BOE   
-  1. A webservice client to retrieve data from Planning's webservice
-  2. A database client to integrate this data into the BOE's NavigateLA
+   1. A webservice that publishes their existing street designation data
+2. BOE
+   1. A webservice client to retrieve data from Planning's webservice
+   2. A database client to integrate this data into the BOE's NavigateLA
      nightly export process
 
 Timeline
@@ -148,12 +154,13 @@ https://data.lacity.org/
 
 Acronym Table
 -------------
-| Acronym       | Meaning                      | 
-| ------------- |:----------------------------:| 
-| BOE           |Bureau of Engineering         | 
-| ZIMAS         | Zone Info & Map Access System|         
+
+| Acronym       | Meaning                      |
+| ------------- +------------------------------|
+| BOE           | Bureau of Engineering        |
+| ZIMAS         | Zone Info & Map Access System|
 | GIS           | Geographic Information System|
-| CFML          | ColdFusion Markup Language   |   
+| CFML          | ColdFusion Markup Language   |
 
 Primary City Partners
 ---------------------

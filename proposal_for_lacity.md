@@ -55,7 +55,7 @@ Background
 ----------
 <a name="background"></a>
 
-NavigateLA is a BOE Geographical Information System (GIS) used by Plan Check engineers,
+NavigateLA is a BOE Geographical Information System (GIS) used by Plan Check Engineers,
 to determine the designation of a particular street and assess whether
 construction plans are compliant with city code.  Because it is the Planning Department
 that specifies the designation information, and because these designations change 

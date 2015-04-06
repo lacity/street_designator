@@ -129,7 +129,7 @@ processing to get the proper data into NavigateLA.
 Benefits (How this addresses the Goals)
 ---------------------------------------
 
-### Speed (Less work means less time)
+### Less Time
 <a name="speed-goal"></a>
 
 By automating the import process, Planning no longer has to take the

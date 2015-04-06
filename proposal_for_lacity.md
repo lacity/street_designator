@@ -80,7 +80,7 @@ City Council to appearing in NavigateLA?
 
 [![Current Street Designation Change Process](http://i.imgur.com/oehD0Xp.png)](http://i.imgur.com/oehD0Xp.png)
 
-From City Council, the authority goes to Planning, to specify the designation
+From City Council, the authority goes to Planning to specify the designation
 of each street segment. As part of this process
 planners use ArcGIS desktop software to enter the designation changes
 into their own GIS. There is a public facing server for this system,

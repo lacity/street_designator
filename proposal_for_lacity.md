@@ -42,10 +42,10 @@ This will have three primary benefits.
 
  1. [Less time](#speed-goal) before changes to street designations
     are available to Plan Check Engineers.
-    1. Reduce the amount of time spent by the Bureau of Engineering
-       inputting changes to street designations
-    2. Reduce the amount of time spent by Planning preparing change
+    1. Reduce the amount of time spent by Planning preparing change
        reports to send to the Bureau of Engineering
+    2. Reduce the amount of time spent by the Bureau of Engineering
+       inputting changes to street designations
  2. [Reduce the chance for errors](#reduce-errors-goal) that could occur when Planning manually
     creates change request documents and when the BOE manually re-inputs
     what is intended to be the same data.

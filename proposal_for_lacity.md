@@ -35,9 +35,10 @@ Bureau of Engineering, who enforces these designations.
 <br />
 <br />
 
+<a name="#goals"></a>
+
 Goals (Why this is good for the city)
 --------------------------------------
-<a name="#goals"></a>
 This will have three primary benefits.
 
  1. [Less time](#speed-goal) before changes to street designations
@@ -51,9 +52,10 @@ This will have three primary benefits.
     what is intended to be the same data.
  3. [Support Mayor Garcetti's Open Data Initiative](#open-data-goal).
 
+<a name="background"></a>
+
 Background
 ----------
-<a name="background"></a>
 
 NavigateLA is a BOE Geographical Information System (GIS) used by Plan Check Engineers,
 to determine the designation of a particular street and assess whether
@@ -95,9 +97,10 @@ this data is extracted, transformed, and loaded into the database that
 powers NavigateLA, ready for Plan Check Engineers and the public at
 large to use.
 
+<a name="proposal"></a>
+
 Proposed Process (How we'd like things to work)
 -----------------------------------------------
-<a name="proposal"></a>
 
 Instead of emailing change requests, Planning publishes their existing
 street designation data through their existing ZIMAS ArcGIS Server 
@@ -106,9 +109,10 @@ NavigateLA export process.
 
 [![Proposed Street Designation Change Process](http://i.imgur.com/LNxhjtg.png)](http://i.imgur.com/LNxhjtg.png)
 
+<a name="deliverables"></a>
+
 Deliverables (How we get there)
 -------------------------------
-<a name="deliverables"></a>
 
 ### Planning
 
@@ -129,8 +133,9 @@ processing to get the proper data into NavigateLA.
 Benefits (How this addresses the Goals)
 ---------------------------------------
 
-### Less Time
 <a name="speed-goal"></a>
+
+### Less Time
 
 By automating the import process, Planning no longer has to take the
 time to separately prepare a report for the BOE, and the BOE no longer
@@ -138,8 +143,9 @@ has to separately allocate an Engineer to input this data. Planning can
 reliably expect that after publishing their data, the next day they
 can see these changes online and at the Plan Check Counters.
 
-### Reduce Errors
 <a name="reduce-errors-goal"></a>
+
+### Reduce Errors
 
 Planning is the source of authority for what designation a street has.
 That means whatever designation Planning says a street is - *it is*. By
@@ -147,8 +153,9 @@ automatically populating NavigateLA with data that Planning enters we
 remove the potential for a class of errors and ambiguity that comes with
 humans translating change request documents.
 
-### Garcetti's Open Data Initiative
 <a name="open-data-goal"></a>
+
+### Garcetti's Open Data Initiative
 
 Excerpted from [the Mayors website](http://www.lamayor.org/garcetti_directs_city_departments_to_collect_data_for_open_data_initiative)
 
@@ -164,9 +171,10 @@ would add to the amount of useful data being made public, and thus
 clearly furthers the Mayor's Open Data agenda.
 
 
+<a name="timeline"></a>
+
 Timeline
 --------
-<a name="timeline"></a>
 
 The first thing we need to do is evaluate the GIS systems for both
 Planning and BOE. The existing setups will greatly inform the specific
@@ -185,9 +193,10 @@ identical to the production system. At minimum, we will need access to
 the source code for the automated export system, and occasional support
 from the maintainers of the export process software.
 
+<a name="outstanding-questions"></a>
+
 Outstanding Questions
 ---------------------
-<a name="outstanding-questions"></a>
 
 #### How do we relate Planning's street designations to BOE's streets?
 

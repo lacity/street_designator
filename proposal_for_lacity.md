@@ -14,7 +14,7 @@ permalink: /proposal_for_lacity/
       <a href="#background">Background</a>
     </li>
     <li>
-      <a href="#propsal">Proposal</a>
+      <a href="#proposal">Proposal</a>
     </li>
     <li>
       <a href="#deliverables">Deliverables</a>
@@ -40,8 +40,8 @@ Goals (Why this is good for the city)
 <a name="#goals"></a>
 This will have three primary benefits.
 
- 1. [Increase the speed](#speed-goal) with which changes to street designations made by
-    Planning are available to Plan Check Engineers.
+ 1. [Less time](#speed-goal) before changes to street designations
+    are available to Plan Check Engineers.
     1. Reduce the amount of time spent by the Bureau of Engineering
        inputting changes to street designations
     2. Reduce the amount of time spent by Planning preparing change
@@ -212,3 +212,27 @@ What is the backup strategy for the affected BOE databases? How does our
 work affect the BOE's ability to recover their system in the event of
 failure?
 
+Graduate Advisory Board
+-----------------------
+Raj S. Pamula, Ph.D., Chair, Advisor Graduate Advisor
+
+
+Russell J. Abbott, Ph.D. Graduate Advisor
+
+
+Chengyu Sun, Ph.D. Technical Advisor
+
+
+Michael Kirk Technical Advisor/Software Project Management Expert 
+
+Primary City Partners
+---------------------
+Randy Price, P.E.   Division Manager Los Angeles City of Bureau of
+Engineering
+
+
+Claire Bowin, AICP Senior City Planner Los Angeles Department of City
+Planning
+
+
+Deborah Weintraub, AIA LEED_ap Deputy City Engineer Los Angeles

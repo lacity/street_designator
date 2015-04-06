@@ -50,3 +50,23 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+
+.site-nav {
+  margin-top: -60px;
+  h4 {
+    margin-bottom: 0px;
+  }
+  padding-left: 20px;
+  ul {
+    margin-left: 10px;
+    list-style: none;
+    li {
+      line-height: 26px;
+    }
+  }
+  a, a:visited {
+    color: #111;
+  }
+}
+
